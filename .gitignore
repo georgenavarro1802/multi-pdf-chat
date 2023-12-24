@@ -1,0 +1,24 @@
+.idea
+multi-pdf-chat/.idea/
+/.idea/
+.idea/worspace.xml
+/.idea/*
+
+.vscode/
+storage/
+storage/*
+
+**/__pycache__/
+
+*.swp
+multi-pdf-chat/__init__.pyc
+
+venv*/
+
+.env
+multi-pdf-chat/.env
+
+settings.ini
+
+# MacOS
+.DS_Store

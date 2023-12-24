@@ -1,0 +1,15 @@
+streamlit
+pypdf2
+langchain
+python-dotenv
+faiss-cpu
+watchdog
+huggingface_hub
+# this is needed by vector store embeddings
+tiktoken
+# this is for OpenAI embeddings (using OpenAI api)
+openai
+# this is for instructor-xl embeddings (https://huggingface.co/hkunlp/instructor-xl)
+InstructorEmbedding
+# dependency used by instructor embedding
+sentence_transformers
